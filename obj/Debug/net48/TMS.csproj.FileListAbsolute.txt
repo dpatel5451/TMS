@@ -1,0 +1,11 @@
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.csproj.AssemblyReference.cache
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.Admin.resources
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.Buyer.resources
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.Planner.resources
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.TMS.resources
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.csproj.GenerateResource.cache
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.AssemblyInfoInputs.cache
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.AssemblyInfo.cs
+C:\Users\College\Downloads\TMS (1)\TMS\obj\Debug\net48\TMS.csproj.CoreCompileInputs.cache
